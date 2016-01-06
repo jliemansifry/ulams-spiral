@@ -6,5 +6,8 @@ Written by Jesse Lieman-Sifry while looking for interesting projects during the 
 Below is the version with all primes visualized as white pixels. 
 ![Image](/UlamsSpiral_255x255_all_primes_200dpi.png)
 
-In this version, any primes that have a neighbor prime (two away) are visualized as orange pixels. 
+In this version (below), any primes that have a neighbor prime (two away) are visualized as white pixels. Lonely primes are orange pixels. 
 ![Image](/UlamsSpiral_255x255_withDoubles_200dpi.png)
+
+This version is only 25x25, helping to show the pattern at a small scale. 
+![Image](/UlamsSpiral_25x25_withDoubles_200dpi.png)
